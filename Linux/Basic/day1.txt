@@ -1,0 +1,25 @@
+hii every one today is the first day in field of linux.
+we will be seeing how to install linus based OS(OPERATING SYSTEM) in our desktop.
+There are more than 600 OS, among them 3 are popular
+1)Windows OS--(Home based, not so programmer friendly )
+2)MAC OS-- (for mac user)
+3)Linux--(Home based, programmer friendly)
+
+see about MINIX(first linux),SCO UNIX, *nix
+AIX--IBM
+UX--HP
+
+2 categories
+1)Debian--kali,ubuntu
+2)Posix--Fedora,Red hat,centOS
+
+
+Cent OS(simillar to red hat but all will be free)
+
+There are some online platform to get certification on linux
+if you have one OS running in your device and want one more OS the you can use VM(virtual machine) in your device.
+you can use VMWARE, VirtualBOX by oracle. for installing in device(working without internet after installation)
+You can use online cloud from aws,google(debit-card),allibaba(paytm) for paying for our usage(it require internet for working).
+
+90% commands will be same in all linux distribution and remaining 10% are different which make all linux OS distinct(different).
+I will be using Ubuntu at present, if any problems are faced in my journey of learning linux then i will be using CentOS.
