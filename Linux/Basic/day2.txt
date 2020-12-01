@@ -1,0 +1,33 @@
+Installation of centOS step-by-step and basic commands
+ after all commands write file name on which you want make that command work ;)
+
+---> multiuser of same system by using ctrl+alt+(f1,....f7)
+echo 'i am tty4 and  sending meaasge to user tty2' > /dev/tty2
+quit ==> to exit multiuser window
+w:- number of user login list in the multiuser mode
+ctrl+shift++  ==>  font size increase in terminal
+ctrl+shift+-  ==>  font size decrease in terminal
+echo ==> to print
+echo 'hii how are you' > kishan  ==> this will make file named kishan and it have 'hii how are you' written in it
+touch kishan.txt ==> create empty file name kishan.txt
+ls ==> list all file and folders in current directory where you are
+pwd ==> print working directory(where you are)
+history ==> it will display all command we are used till now from opening of the terminal
+note:- never type your password in this terminal untill it asked during sudo command
+cd ==> this command is used for making your movement between the folder( one folder to another folder)
+cd .. ==> this command is used to go to previous folder
+mkdir ==> this command is used for making directory  (directory will be in coloured)
+rmdir ==> to remove directory (it should be empty)   <-----------------------------------------
+or use ==> rm ./[directory_name]/[file_name] ==> for deleting file(making empty of directory) |
+ls -l ==> long list===> it will show you acess type(rwxr-xr-) of given list of files and folder
+clear is used to clean terminal
+ls / ==> it show you computer file(root)
+rm ==> remove file
+[command] --help  ==> to get all things related to that command.
+mv a b ==> move/rename all thing present in a --> b
+mv a ../ ==> check once it will take you 2 some directory
+cp all1 all2  ==> copy all content from all1 to all2
+
+
+
+check some cat and tail head related commmand
