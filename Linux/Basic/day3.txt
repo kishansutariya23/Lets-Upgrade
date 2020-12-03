@@ -1,0 +1,28 @@
+                                                
+						
+						EDITORS used in Linux
+
+
+
+
+
+
+
+Install vim, nano, gedit
+this all are editor in linux
+you can use your favourite editor in which you are confortable with.
+This editor are common in all type of linux device.
+
+
+Vim==>  v improved (remember all keyword required in the  editor)
+nano ==> it have (some keyword are given at below of the application)
+gedit ==> this is graphical editor (it is simmilar to all  normal editor which are used in windows)
+          ex:- 1)linux have by default editor install in it(graphicall editor)
+               2)you can  download any editor like vscode, sublime, atom
+          easy to use as it keyword are similar in all OS  
+
+
+vim and nano are editors mostly used in linux.
+shortcut keys used inn this editor are present in many website, below is website in which you can find some shorcut keys
+https://cheatography.com/davechild/cheat-sheets/linux-command-line/
+https://vim.rtorr.com/
